@@ -6,6 +6,6 @@ En rad per fel. Skriv medan du minns hur du gjorde.
 |----|--------------------|-------------------------|-----------------------------|-------------------|
 | 1  | Syntax error line 11                    |Github actions                          | Genom att läsa workflow file                            |  Fixade till syntax                 |
 | 2  | Unable to find lockfile                   | Github                         |   Felsökning av workflow                          |      UV sync            |
-| 3  |                    |                         |                             |                   |
+| 3  | Remove unused import                   |  Github                       |  Identifierade felet genom att granska loggarna för check-jobbet                           |  Tog bort en unused import från src/baseline.py                |
 
 Fortsätt tabellen med fler rader vid behov.
